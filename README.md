@@ -1,7 +1,7 @@
 Hello, my name is Raymond King'ori🙂
 
-🧠I'm a computer science student
-😎I create websites and apps for fun
+🧠I'm a computer science student<br>
+😎I create websites and apps for fun<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rk5_) 
