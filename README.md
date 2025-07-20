@@ -1,4 +1,4 @@
-##Hello, my name is Raymond King'ori🙂
+Hello, my name is Raymond King'ori🙂
 
 🧠I'm a computer science student
 😎I create websites and apps for fun
